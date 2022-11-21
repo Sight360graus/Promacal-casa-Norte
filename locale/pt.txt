@@ -1,0 +1,32 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_8E52E0FE_981B_9278_4165_09FBC06C19AA.mp3Url = media/audio_81FFEAAD_97E6_F698_41C6_F911388F2A05_pt.mp3
+audiores_8E52E0FE_981B_9278_4165_09FBC06C19AA.oggUrl = media/audio_81FFEAAD_97E6_F698_41C6_F911388F2A05_pt.ogg
+
+### Title
+panorama_9B8BF4B2_97E9_7288_41E1_7CDAFF497E1B.label = 1
+panorama_9CA80D29_97EE_939B_41D0_22F3A538B0DC.label = 10
+panorama_9CA84826_97EE_B188_41C8_1F169981EB52.label = 11
+panorama_9CA873CE_97EE_9698_41E1_12001DC10692.label = 12
+panorama_9CA9BECB_97EE_8E98_41D9_B891794C8162.label = 13
+panorama_9CA80AB1_97EE_F68B_41B3_0DA4ADCA0091.label = 14
+panorama_9CA9D4D3_97EE_9288_41C9_BE4DF7E545ED.label = 15
+panorama_9CA468D4_97E9_B289_41DA_688B9BD129F4.label = 2
+panorama_9CAD3DA5_97E9_9288_41D8_41C220C55B8F.label = 3
+panorama_9CAC688F_97E9_9298_41C0_779AA476D0F6.label = 4
+panorama_9CA8F3F9_97E9_B678_41B3_900F8026A4DC.label = 5
+panorama_9CA81F72_97E9_8F89_41E0_9660584BF607.label = 6
+panorama_9CA8BA7F_97E9_9678_41D8_FF84D80A0593.label = 7
+panorama_9CA80646_97E9_7189_41CE_6784FA3BB045.label = 8
+panorama_9CA85181_97EE_9288_41BA_6833D746E3BD.label = 9
+
+## Tour
+
+### Description
+tour.description = Faça um Tour virtual 360 graus e conheça nossa loja
+
+### Title
+tour.name = Promacal casa Norte
